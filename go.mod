@@ -1,4 +1,4 @@
-module github.com/freman/putty_hosts
+module github.com/abakum/putty_hosts
 
 go 1.21.4
 
